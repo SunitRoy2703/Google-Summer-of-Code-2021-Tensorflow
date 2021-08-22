@@ -42,7 +42,7 @@ UIKit version screen cast | SwiftUI version screen cast
 
 ### ⭐️ PR Link - [#336](https://github.com/tensorflow/examples/pull/336)
 
-- Recreated the App to use the latest TFLite Task Library & 
+- Recreated the App to use the latest TFLite Task Library 
 - Designed the App to switch between both NLClassifier and BertNLClassifier API.
 - Added & Updated documentation, tests, and code-walkthrough to help onboard new users.  
 
