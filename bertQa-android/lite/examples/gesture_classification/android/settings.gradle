@@ -1,0 +1,2 @@
+rootProject.name = 'TFLite Gesture Classification Demo App'
+include ':app'
