@@ -8,7 +8,9 @@
 * Meghna Natraj ([@meghnanatraj](https://github.com/MeghnaNatraj))
 
 ## Project Overview
-Designing and Recreating new NLP TensorFlow Lite examples. This includes BERT Question and Answering, Text classification using the [TensorFlow Lite Task Library](https://www.tensorflow.org/lite/inference_with_metadata/task_library/overview) which will be showcased in [TensorFlow Lite examples](https://www.tensorflow.org/lite/examples). As a GSoC student, my task was to update the existing Natural Language Processing examples for these 2 tasks to use the TensorFlow Lite Task Library instead of custom code. 
+Designing and Recreating new NLP TensorFlow Lite examples. This includes BERT Question and Answering, Text classification using the [TensorFlow Lite Task Library](https://www.tensorflow.org/lite/inference_with_metadata/task_library/overview) which will be showcased in [TensorFlow Lite examples](https://www.tensorflow.org/lite/examples). As a GSoC student, my task was to update the existing Natural Language Processing examples for these 2 tasks to use the TensorFlow Lite Task Library instead of custom code.
+
+## Check out youtube video on [My GSoC Experience](https://youtu.be/7rabtsUm4So)
 
 
 ## BERT QA Android Example Application
@@ -71,7 +73,7 @@ My Google Summer of Code Experience was awesome ❤️ and a large part of this 
 
 I thank them for their constant guidance, code reviews, timely feedback, help and most importantly, for their dedicated advice and encouragement throughout GSoC. I would definitely love to contribute more in the future to the TensorFlow.
 
-> Medium Blog is coming soon!
+## [Medium Blog](https://medium.com/@sunitroy/google-summer-of-code-2021-tensorflow-%EF%B8%8F-9e171134f2c8)
 
  ### 📫 Connect with me
  <img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
