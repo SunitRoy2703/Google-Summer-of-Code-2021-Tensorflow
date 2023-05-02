@@ -10,6 +10,8 @@
 ## Project Overview
 Designing and Recreating new NLP TensorFlow Lite examples. This includes BERT Question and Answering, Text classification using the [TensorFlow Lite Task Library](https://www.tensorflow.org/lite/inference_with_metadata/task_library/overview) which will be showcased in [TensorFlow Lite examples](https://www.tensorflow.org/lite/examples). As a GSoC student, my task was to update the existing Natural Language Processing examples for these 2 tasks to use the TensorFlow Lite Task Library instead of custom code.
 
+## Project Link: https://summerofcode.withgoogle.com/archive/2021/projects/4701689461866496
+
 ## Check out youtube video on [My GSoC Experience](https://youtu.be/7rabtsUm4So)
 
 
